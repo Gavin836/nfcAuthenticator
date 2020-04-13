@@ -1,0 +1,2 @@
+rootProject.name='NFC Authenticator'
+include ':app'

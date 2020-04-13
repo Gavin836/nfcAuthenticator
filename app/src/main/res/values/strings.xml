@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFC Authenticator</string>
+    <string name="scanPrompt">Please scan your security token</string>
+    <string name="resultPlaceholder">Tag contents</string>
+    <string name="errorRead">Not scanned</string>
+    <string name="errorEnc">Failed to parse encoding</string>
+    <string name="scanSucess">Found tag</string>
+    <string name="OTPInstruct">Your OTP is shown below:</string>
+
+
+</resources>
